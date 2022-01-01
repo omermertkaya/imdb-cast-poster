@@ -37,6 +37,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ömer Mert KAYA - omermertkaya@hotmail.com.tr
 
-Project Link: [https://github.com/omermertkaya/youtube-channel-live-check](https://github.com/omermertkaya/youtube-channel-live-check)
+Project Link: [https://github.com/omermertkaya/imdb-cast-poster](https://github.com/omermertkaya/imdb-cast-poster)
 
 
