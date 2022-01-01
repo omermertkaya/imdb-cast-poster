@@ -1,0 +1,26 @@
+{
+  "name": "imdb-search-cast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bull": "^4.2.0",
+    "cheerio": "^1.0.0-rc.10",
+    "ejs": "^3.1.6",
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "image-downloader": "^4.0.3",
+    "image-resize-util": "^1.0.2",
+    "jimp": "^0.16.1",
+    "queue": "^6.0.2",
+    "request": "^2.88.2",
+    "system-sleep": "^1.3.7",
+    "url-encode-decode": "^1.0.0"
+  }
+}
