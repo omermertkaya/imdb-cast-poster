@@ -1,7 +1,9 @@
 
 ## About The IMDB Cast Poster Download Web Page
 
-This project developed to demand. The App will download your cast poster list. The app used simply nodejs for back-end and ejs for front-end. You know imdb api is not most expensive but maybe some people need to fastly and quickly download to cast poster. It worked for me. Thanks all.
+This project developed to demand. The App will download your cast poster list. The app used simply nodejs for back-end and ejs for front-end. You know imdb api is not most expensive but maybe some people need to fastly and quickly download to cast poster.
+
+
 
 
 ### Installation
