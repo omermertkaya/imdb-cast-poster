@@ -21,7 +21,7 @@ This project developed to demand. The App will download your cast poster list. T
 5. Start App
    ```sh
    Go to browser and 
-   [https://github.com/omermertkaya/imdb-cast-poster](https://github.com/omermertkaya/imdb-cast-poster)
+   http://localhost:8080/
    ```
 
 
