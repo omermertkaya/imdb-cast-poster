@@ -26,6 +26,11 @@ This project developed to demand. The App will download your cast poster list. T
    http://localhost:8080/
    ```
 
+<!-- LICENSE -->
+## Screen
+
+![screen2](screenshot2.png)
+
 
 
 <!-- LICENSE -->
