@@ -44,10 +44,17 @@ setTimeout(function () {
                     } else {
                         var normalisim = decode(yenielement)
                         var alttireliisim = normalisim.split(' ').join('_');
+                        
 
 
                         var buyukresimyolu = bulunanresimyolu.split('_V1')
                         var sonresimyolu = buyukresimyolu[0] + '_V1'
+
+                        if(alttireliisim.includes('\r\n')){
+                            alttireliisim = alttireliisim.split('\r\n').join('');
+                        
+                        }
+                        
 
                         const options = {
                             url: sonresimyolu,
@@ -56,7 +63,7 @@ setTimeout(function () {
 
                         download.image(options)
                             .then(({ filename }) => {
-                                console.log('resim kayitlandi' + filename)
+                                console.log('Download is successful: ' + filename)
                             })
                             .catch((err) => console.error(err))
 
